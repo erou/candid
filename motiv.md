@@ -44,15 +44,25 @@ m'a donné envie de suivre le master de recherche en algèbre appliquée de
 Versailles, et de faire un stage de deux mois pendant l'été entre l'agrégation
 et le master de recherche. Pendant ce stage, j'ai étudié et implémenté des algorithmes
 pour l'arithmétique dans les corps finis avec le langage de programmation
-Julia, un langage encore expérimental et très prometteur. Ce stage a été
+Julia, un langage encore jeune et très prometteur. Ce stage a été
 supervisé par Luca De Feo et a permis de comprendre le fonctionnement de Julia
 ainsi que de Nemo, une bibliothèque pour le calcul formel écrite en Julia et
 basée sur d'autres bibliothèques comme par exemple Flint. Au sein du master
 d'algèbre appliquée de Versailles, j'ai travaillé sur un projet de
-programmation, supervisé par Mickaël Quisquater, portant sur l'étude et
+programmation, supervisé par Michaël Quisquater, portant sur l'étude et
 l'implémentation en C d'algorithmes de génération d'éléments normaux dans les
 corps finis. Enfin, je suis aujourd'hui en stage de recherche à l'université de
 Waterloo, au Canada, sous la direction d'Eric Schost et de Luca De Feo. Ce stage
 durera six mois et porte sur le logarithme discret dans les corps finis de
 petite caractéristique. Un des objectifs est la compréhension et
-l'implémentation des nouveaux algorithmes quasi-polynomiaux.
+l'implémentation de nouveaux algorithmes heuristiquement quasi-polynomiaux.
+
+En première ligne de mes intérêts non scientifiques, on trouve sans aucun doute
+le théâtre d'improvisation. C'est une activité que j'ai découvert au lycée, que
+j'ai dû arrêter avec regret pendant mes années les plus chargées, mais que j'ai
+pratiqué intensément pendant plusieurs années, faisant partie de plusieurs
+troupes et participant à de nombreux spectacles. En improvisation, j'aime la
+liberté créatrice, le lâcher prise, le partage, et tout simplement le fol
+amusement que cela me procure. J'ai aussi un intérêt particulier pour le cinéma,
+qui m'a été
+transmis par mes parents
