@@ -58,11 +58,11 @@ petite caractéristique. Un des objectifs est la compréhension et
 l'implémentation de nouveaux algorithmes heuristiquement quasi-polynomiaux.
 
 En première ligne de mes intérêts non scientifiques, on trouve sans aucun doute
-le théâtre d'improvisation. C'est une activité que j'ai découvert au lycée, que
+le théâtre d'improvisation. C'est une activité que j'ai découverte au lycée, que
 j'ai dû arrêter avec regret pendant mes années les plus chargées, mais que j'ai
 pratiqué intensément pendant plusieurs années, faisant partie de plusieurs
 troupes et participant à de nombreux spectacles. En improvisation, j'aime la
 liberté créatrice, le lâcher prise, le partage, et tout simplement le fol
 amusement que cela me procure. J'ai aussi un intérêt particulier pour le cinéma,
-qui m'a été
-transmis par mes parents
+qui m'a été transmis par mes parents. Enfin, comme beaucoup, j'aime la musique,
+la lecture, et le sport.
