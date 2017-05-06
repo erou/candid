@@ -6,7 +6,11 @@ une thèse au sein de l'école doctorale.*
 *Quelle carrière envisagez-vous et qu'attendriez-vous d'une formation par la
 recherche ?*
 
-(À remplir...)
+Mon objectif, à long terme, est de devenir enseignant-chercheur. Effectuer une
+thèse posera donc la première pierre de ce projet. Outre cet objectif, la thèse
+me permettra de me lancer dans un projet scientifiquement épanouissant et
+devrait m'apporter la rigueur, les connaissances, et le savoir-faire de la
+recherche.
 
 **Complément d'information (texte libre)**
 
@@ -38,7 +42,7 @@ Serge Lang "Algebra". L'année suivante, nous avons travaillé en binôme sur le
 théorème de Gabriel, qui caractérise les représentations de carquois, sous la 
 direction de Pierre-Guy Plamondon. J'ai ensuite passé l'agrégation en suivant
 l'option calcul formel, ce qui a renforcé mon désir de travailler dans ce
-domaine et m'a fait découvrir des domaines qui sont aujourd'hui parmi mes sujets
+domaine et m'a fait découvrir des sujets qui sont aujourd'hui parmi mes 
 favoris, comme la cryptographie ou la théorie des codes. C'est aussi cela qui
 m'a donné envie de suivre le master de recherche en algèbre appliquée de
 Versailles, et de faire un stage de deux mois pendant l'été entre l'agrégation
@@ -55,7 +59,7 @@ corps finis. Enfin, je suis aujourd'hui en stage de recherche à l'université d
 Waterloo, au Canada, sous la direction d'Eric Schost et de Luca De Feo. Ce stage
 durera six mois et porte sur le logarithme discret dans les corps finis de
 petite caractéristique. Un des objectifs est la compréhension et
-l'implémentation de nouveaux algorithmes heuristiquement quasi-polynomiaux.
+l'implémentation de récents algorithmes heuristiquement quasi-polynomiaux.
 
 En première ligne de mes intérêts non scientifiques, on trouve sans aucun doute
 le théâtre d'improvisation. C'est une activité que j'ai découverte au lycée, que
